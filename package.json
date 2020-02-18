@@ -23,6 +23,6 @@
     "mysql": "^2.17.1"
   },
   "devDependencies": {
-    "forever": "^1.0.0"
+    "forever": "^2.0.0"
   }
 }
